@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "それでも優しかった君へ",
+  "base_artist": "MIMI",
+  "createdAt": "2026-02-11T01:50:04.853824Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "それでも優しかった君へ (feat. 沖石)",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_それでも優しかった君へ_(feat._沖石)_MIMI.txt"
+    }
+  ]
+}
